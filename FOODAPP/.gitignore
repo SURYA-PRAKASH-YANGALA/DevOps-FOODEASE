@@ -1,6 +1,0 @@
-venv/
-project_mine_venv/
-__pycache__/
-*.pyc
-.env
-node_modules/
